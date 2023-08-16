@@ -12,3 +12,5 @@ Full history dump:
 [full_history.zip](https://harri-renney-kaze.github.io/CVEFree/full_history.zip)
 
 This data is made available courtesy of Kaze Consulting Ltd.
+
+<img src="./kaze_logo.png" width="90">
