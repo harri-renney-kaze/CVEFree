@@ -9,6 +9,6 @@ A repository that hosts a weekly update of all openly available vulnerability in
 
 Full history dump:
 
-[full_history.zip](https://harri-renney-kaze.github.io/CVEFree/full_history.csv)
+[full_history.zip](https://harri-renney-kaze.github.io/CVEFree/full_history.zip)
 
 This data is made available courtesy of Kaze Consulting Ltd.
