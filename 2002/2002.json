@@ -1,1 +1,1 @@
-{"CVE-2002-001": {"CVSS2": 5.8, "CVSS3": 2.1, "EPSS": 0.02345}}
+{"metadata": "", "cves": [{"CVE-2002-0001": {"CVSSv2": 0.0, "CVSSv3": 0.0, "CVSSv4": 0.0, "EPSS": 0.0, "V-Score": 0.0, "cwe": [], "cpe": []}}, {"CVE-2002-0002": {"CVSSv2": 0.0, "CVSSv3": 0.0, "CVSSv4": 0.0, "EPSS": 0.0, "V-Score": 0.0, "cwe": [], "cpe": []}}]}
