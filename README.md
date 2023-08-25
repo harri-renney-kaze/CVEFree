@@ -13,7 +13,7 @@ Full history dump:
 
 ## Notebooks
 
-[Analytics](https://harri-renney-kaze.github.io/CVEFree/notebooks/analytics.ipynb)
+[Analytics](https://github.com/harri-renney-kaze/CVEFree/blob/main/notebooks/analytics.ipynb)
 
 This data is made available courtesy of Kaze Consulting Ltd.
 
